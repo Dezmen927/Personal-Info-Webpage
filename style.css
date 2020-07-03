@@ -1,0 +1,20 @@
+body {background-color: #f3c623;}
+
+hr {border-style: none;
+    border-top-style: dotted;
+    border-color: purple;
+    border-width: 10px;
+    width: 10%;
+
+  }
+
+Img {height: 200px;}
+
+h1 { color: purple;
+    text-shadow: 2px 2px white;}
+
+h2 { color: purple;
+    text-decoration: underline white;}
+
+h3 {color: purple;
+    text-decoration: underline white;}
